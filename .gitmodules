@@ -1,3 +1,6 @@
 [submodule "linux_kernel_t113"]
 	path = linux_kernel_t113
 	url = git@github.com:Healer-sys/linux_kernel_t113.git
+[submodule "linux-5.4_t113"]
+	path = linux-5.4_t113
+	url = https://gitee.com/Hello_skylar/t113_-kernel.git
