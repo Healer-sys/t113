@@ -1,0 +1,3 @@
+[submodule "linux_kernel_t113"]
+	path = linux_kernel_t113
+	url = git@github.com:Healer-sys/linux_kernel_t113.git
