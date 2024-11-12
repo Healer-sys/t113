@@ -1,0 +1,4 @@
+b8d9a71e933cb8d458c1dd0610cf176a  lib/arm-linux-gnueabihf/libapparmor.so.1.4.2
+bfe3991634ef9dabd0b36dcedc3d5ea4  usr/share/doc/libapparmor1/changelog.Debian.gz
+4e4447150fa549ca1cc840181ddb38b4  usr/share/doc/libapparmor1/copyright
+7d2ea372ce17541863d9da4f4e225aa1  usr/share/lintian/overrides/libapparmor1

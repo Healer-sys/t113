@@ -1,0 +1,26 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/statd.override 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/statd.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/statd-mounting.override 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/statd-mounting.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/idmapd.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/idmapd-mounting.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/gssd.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/11.1.6ubuntu2
+dpkg-maintscript-helper rm_conffile /etc/init/gssd-mounting.conf 1:1.2.8-9.1ubuntu1~ -- "$@"
+# End automatically added section
